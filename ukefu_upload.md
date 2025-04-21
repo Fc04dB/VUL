@@ -29,9 +29,11 @@ boundary=---------------------------13001418927212618391481664692
 
 After the above request packet was sent, the access path of the file was returned
 ![image](https://github.com/user-attachments/assets/2667dc11-7474-4775-84c7-c984b8847914)
+
 Search for the file name in the server where the application is located, such as "e10adc3949ba59abbe56e057f20f883e. JSP",
 Found that the uploaded file has been written verbatim to the disk
 ![image](https://github.com/user-attachments/assets/5b9d133e-b7eb-400f-ad34-6295d744682c)
 Accessible website：http://192.168.96.137:8088/res/image.html?id=upload/e10adc3949ba59abbe56e057f20f883e.jsp
+
 If uploading a image ：
 ![image](https://github.com/user-attachments/assets/9be3c6c4-bcdd-420d-8b2e-89b54be37e3b)
